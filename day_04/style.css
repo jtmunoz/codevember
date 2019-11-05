@@ -1,4 +1,14 @@
 
 * { font-family: 'Roboto', sans-serif; }
 
-h1 { font-size: 25vw; }
+h1 { 
+	text-align: center;
+	margin: 0 auto;
+	font-size: 27vw;
+	line-height: 12.5vw;
+}
+
+h1 span {
+	font-size: 14vw;
+	line-height: 27vw;
+}
